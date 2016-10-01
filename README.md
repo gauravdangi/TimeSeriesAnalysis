@@ -7,6 +7,8 @@ Time series models are very useful models when you have serially correlated data
 analyze sales number for the next year, website traffic, competition position and much more. However, it is also one of the areas,
 which many analysts do not understand.
 
-Here I've done time series analysis on Airpassenger and oil data and have build model using ARIMA and Exponential smoothing forecasts.
+Here I've done time series analysis on Airpassenger and oil data-set and also have build model using ARIMA and Exponential smoothing forecasts.
 
 Download results zip folder which contains plots and fitted plots to see results.
+
+# Happy mining :)
