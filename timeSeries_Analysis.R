@@ -1,3 +1,5 @@
+
+# Author : Gaurav Dangi
 library(plyr);library(dplyr)
 library(forecast)
 library(astsa)
